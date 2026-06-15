@@ -52,7 +52,7 @@
 ## 🎥 TUTORIAL
 
 <p align="center">
-  <a href="https://youtu.be/wJKMV0BSqpE?si=6Y11rPD0t2ykoxB8" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Watch-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white" width="200">
   </a>
 </p>
