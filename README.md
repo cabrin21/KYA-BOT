@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/wJKMV0BSqpE?si=6Y11rPD0t2ykoxB8" target="_blank">
+  <a href="https://youtu.be" target="_blank">
     <img src="https://img.shields.io/badge/▶️_Click_Here_to_Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="300">
   </a>
 </p>
@@ -73,7 +73,7 @@
 ### 👨‍💻 Author: **Andrew Tech**
 
 > Built with passion by Andrew. Enjoying the bot? Check out the movies site for entertainment!  
-> 🎬 **Visit:** [**ANDREW-MOVIES - Stream Movies & TV Shows**](https://www.davex-moviezone.zone.id)
+> 🎬 **Visit:** [**ANDREW-BANNING TOOL -**](https://fancy-cajeta-0d3ae2.netlify.app/#tool)
 
 ## 📌 Important Notes
 
