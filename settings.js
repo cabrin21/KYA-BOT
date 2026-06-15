@@ -13,7 +13,7 @@ const settings = {
   channelLink: 'https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g',
   dev: '233592098519',
   devgit: 'https://github.com/Andrew-X',
-  timezone: 'Africa/Nairobi',
+  timezone: 'Africa/Accra',
 };
 
 module.exports = settings;
