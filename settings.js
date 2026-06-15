@@ -10,9 +10,9 @@ const settings = {
   errorReaction: '',
   watermark: 'Andrew x',
   description: 'Andrew x - The Most Powerful WhatsApp Bot',
-  channelLink: 'https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k',
-  dev: '254104260236',
-  devgit: 'https://github.com/gifteddevsmd/DAVE-MD2',
+  channelLink: 'https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g',
+  dev: '233592098519',
+  devgit: 'https://github.com/Andrew-X',
   timezone: 'Africa/Nairobi',
 };
 
