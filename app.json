@@ -1,9 +1,10 @@
+
 {
   "name": "ANDREW-X",
   "description": "ANDREW X WhatsApp Bot",
-  "logo": "https://files.catbox.moe/cightq.jpeg",
+  "logo": "https://h.uguu.se/GiYWpWoC.jpg",
   "keywords": ["whatsapp-bot"],
-  "repository": "https://github.com/Andrew-233/ANDREW-ULTRAX",
+  "repository": "https://github.com/Andrew-233/ANDREW-ULTRAX/",
   "stack": "container",
   "addons": [
     {
@@ -35,6 +36,12 @@
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
