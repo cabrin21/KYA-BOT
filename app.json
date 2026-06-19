@@ -1,9 +1,9 @@
 {
-  "name": "ANDREW-X",
-  "description": "ANDREW X WhatsApp Bot",
-  "logo": "https://h.uguu.se/GiYWpWoC.jpg",
+  "name": "KYARA-BOT",
+  "description": "KYARA WhatsApp Bot",
+  "logo": "https://files.catbox.moe/nvhvj8.jpeg",
   "keywords": ["whatsapp-bot"],
-  "repository": "https://github.com/Andrew-233/ANDREW-ULTRAX/",
+  "repository": "https://github.com/cabrin21",
   "stack": "container",
   "addons": [
     {
@@ -15,7 +15,7 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'ANDREW-MD:~'.",
+      "description": "Must begin with 'KYARA-MD:~'.",
       "value": "",
       "required": true
     }
