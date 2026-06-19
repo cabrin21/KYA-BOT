@@ -1,8 +1,8 @@
 const settings = {
   botName: process.env.BOT_NAME || 'Andrew x',
-  botOwner: process.env.BOT_OWNER || 'DAVEX',
-  ownerNumber: process.env.OWNER_NUMBER || '',
-  packname: process.env.PACKNAME || 'Andrew x',
+  botOwner: process.env.BOT_OWNER || '*𓆩ᯓ𝑨𝑵𝑫𝑹𝑬𝑾 𝑿 『Dev』⎯꯭̽𓆪',
+  ownerNumber: process.env.OWNER_NUMBER || '233592098519',
+  packname: process.env.PACKNAME || '*𓆩ᯓ𝑨𝑵𝑫𝑹𝑬𝑾 𝑿 『Dev』⎯꯭̽𓆪',
   prefix: process.env.PREFIX || '.',
   mode: process.env.MODE || 'public',
   version: '3.0.0',
